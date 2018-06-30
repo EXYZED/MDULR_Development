@@ -6,7 +6,7 @@
 # SITREP, What is it?
 'Sitrep' defined as the *current military situation at a particular area*. Is a development project open to experienced members of the public in creating a military real-time strategy game, which surprisingly isn't a cliché first person shooter. Our schematics are based of another similar game called 'Tom Clancy's End-War' and aiming to make a game which doesn't 'feel' like a typical ROBLOX game.  The current development team have a nice foundation on what should be done.
 
-https://i.gyazo.com/5ffa3aa8cdc302d1b35f81659ac7fb16.mp4
+![](https://i.gyazo.com/5ffa3aa8cdc302d1b35f81659ac7fb16.mp4)
 
 ---
 ## Development inside MDULR
