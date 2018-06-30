@@ -62,3 +62,22 @@ https://www.roblox.com/My/Groups.aspx?gid=3398373
 
 ## Contact
 **danté#2374**
+
+---
+
+# Further roles are opened:
+
+---
+* Texturing (inclusive of UV mapping)
+* 3D Model design [Looking for efficiency over detail]
+* Alpha Testers (To replace above)
+* GFX [Thumbnails] / Typography design, manipulation of text.
+* General scripters (Fields : Camera Manipulation, Matchmaking, HTTPS, Bug report systems, Fail-safe environment)
+
+Advice to scripters: Most of these processes proceed through a GitHub medium.
+
+Extended portfolio
+--- 
+![RobloxScreenShot20180630_164149584|690x365](upload://cwzYdyYYbAMAu4J6RlgTxTf86JK.png)
+![RobloxScreenShot20180630_164431199|690x365](upload://5OhcLgAlslx7UpkPnMVTF7CcDEP.jpg)![RobloxScreenShot20180630_164448668|690x365](upload://1Fj5ES08AGEcVqpIkaMucND4mkR.jpg)
+![](https://cdn.discordapp.com/attachments/196362136656674816/462643868169666560/unknown.png)
