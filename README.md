@@ -78,6 +78,6 @@ Advice to scripters: Most of these processes proceed through a GitHub medium.
 
 Extended portfolio
 --- 
-![RobloxScreenShot20180630_164149584|690x365](upload://cwzYdyYYbAMAu4J6RlgTxTf86JK.png)
+![RobloxScreenShot20180630_164149584|690x365](https://devforum.roblox.com/uploads/default/original/3X/5/7/57c8e701b03126089d51fbefc9807ddf908c31bc.png)
 ![RobloxScreenShot20180630_164431199|690x365](upload://5OhcLgAlslx7UpkPnMVTF7CcDEP.jpg)![RobloxScreenShot20180630_164448668|690x365](upload://1Fj5ES08AGEcVqpIkaMucND4mkR.jpg)
 ![](https://cdn.discordapp.com/attachments/196362136656674816/462643868169666560/unknown.png)
